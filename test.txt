@@ -1,7 +1,0 @@
-HTML Nedir?
-  HTML, Hyper Text Markup Language'ın kısaltmasıdır
-  HTML, Web sayfaları oluşturmak için kullanılan standart işaretleme dilidir
-  HTML, bir Web sayfasının yapısını açıklar
-  HTML bir dizi öğeden oluşur
-  HTML öğeleri tarayıcıya içeriğin nasıl görüntüleneceğini söyler
-  HTML elemanları içerik parçalarını "bu bir başlıktır", "bu bir paragraftır", "bu bir bağlantıdır" vb. şeklinde etiketler.
