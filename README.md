@@ -1,3 +1,3 @@
-![web](https://github.com/user-attachments/assets/67fad230-1a79-4cd7-b1b1-89b6e40f0c0b)
 Not: Bu html notu Btk Akademi HTML5 ile Web Geliştirme kursudan alınmıştır.
 Yeni bilgiler yakında eklenecektir ...
+![web](https://github.com/user-attachments/assets/67fad230-1a79-4cd7-b1b1-89b6e40f0c0b)
